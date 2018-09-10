@@ -1,6 +1,6 @@
 /*
 *   Reversing a linked list
-*   Recursive method
+*   Recursive and Iterative method
 *   Author: Zachary Clark-Williams
 *   date last revised: 09/08/18
 */
